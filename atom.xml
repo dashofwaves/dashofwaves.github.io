@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://dashofwaves.github.io/</id>
+    <id>https://dashofwaves.github.io/</id>
     <title>Dash of Waves</title>
-    <updated>2019-11-05T13:20:47.155Z</updated>
+    <updated>2019-11-05T13:21:44.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://dashofwaves.github.io/"/>
-    <link rel="self" href="http://dashofwaves.github.io//atom.xml"/>
+    <link rel="alternate" href="https://dashofwaves.github.io/"/>
+    <link rel="self" href="https://dashofwaves.github.io//atom.xml"/>
     <subtitle>浪打浪</subtitle>
-    <logo>http://dashofwaves.github.io//images/avatar.png</logo>
-    <icon>http://dashofwaves.github.io//favicon.ico</icon>
+    <logo>https://dashofwaves.github.io//images/avatar.png</logo>
+    <icon>https://dashofwaves.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Dash of Waves</rights>
     <entry>
         <title type="html"><![CDATA[开张]]></title>
-        <id>http://dashofwaves.github.io//post/kai-zhang</id>
-        <link href="http://dashofwaves.github.io//post/kai-zhang">
+        <id>https://dashofwaves.github.io//post/kai-zhang</id>
+        <link href="https://dashofwaves.github.io//post/kai-zhang">
         </link>
         <updated>2019-11-05T12:33:51.000Z</updated>
         <content type="html"><![CDATA[<p>网易也有苦衷~<br>
-<img src="http://dashofwaves.github.io//post-images/1572957302302.gif" alt=""></p>
+<img src="https://dashofwaves.github.io//post-images/1572957302302.gif" alt=""></p>
 ]]></content>
     </entry>
 </feed>
