@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dashofwaves.github.io/</id>
-    <title>Dash of Waves</title>
-    <updated>2019-11-06T01:20:13.805Z</updated>
+    <title>Dash of Waves 浪打浪</title>
+    <updated>2019-11-06T01:53:31.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dashofwaves.github.io/"/>
     <link rel="self" href="https://dashofwaves.github.io//atom.xml"/>
     <subtitle>浪打浪</subtitle>
     <logo>https://dashofwaves.github.io//images/avatar.png</logo>
     <icon>https://dashofwaves.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Dash of Waves</rights>
+    <rights>All rights reserved 2019, Dash of Waves 浪打浪</rights>
+    <entry>
+        <title type="html"><![CDATA[廿分好友]]></title>
+        <id>https://dashofwaves.github.io//post/nian-fen-hao-you</id>
+        <link href="https://dashofwaves.github.io//post/nian-fen-hao-you">
+        </link>
+        <updated>2019-11-06T01:22:09.000Z</updated>
+        <content type="html"><![CDATA[<p>人格担保描述属实</p>
+<figure data-type="image" tabindex="1"><img src="https://dashofwaves.github.io//post-images/1573003989371.gif" alt=""></figure>
+<p align="center">
+<audio width="640" height="100"
+controls="controls" autoplay="autoplay">
+<source src="//63.223.91.200/08%20%E4%BA%8C%E5%8D%81%E5%88%86%E9%92%9F%E7%9A%84%E6%9C%8B%E5%8F%8B.mp3" />
+</audio>
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开张]]></title>
         <id>https://dashofwaves.github.io//post/kai-zhang</id>
