@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dashofwaves.github.io/</id>
     <title>Dash of Waves 浪打浪</title>
-    <updated>2019-11-06T02:57:04.908Z</updated>
+    <updated>2019-11-06T03:07:02.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dashofwaves.github.io/"/>
     <link rel="self" href="https://dashofwaves.github.io//atom.xml"/>
@@ -11,16 +11,16 @@
     <icon>https://dashofwaves.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Dash of Waves 浪打浪</rights>
     <entry>
-        <title type="html"><![CDATA[廿分好友]]></title>
-        <id>https://dashofwaves.github.io//post/nian-fen-hao-you</id>
-        <link href="https://dashofwaves.github.io//post/nian-fen-hao-you">
+        <title type="html"><![CDATA[说明]]></title>
+        <id>https://dashofwaves.github.io//post/shuo-ming</id>
+        <link href="https://dashofwaves.github.io//post/shuo-ming">
         </link>
-        <updated>2019-11-06T01:22:09.000Z</updated>
-        <content type="html"><![CDATA[<p>人格担保描述属实</p>
-<figure data-type="image" tabindex="1"><img src="https://dashofwaves.github.io//post-images/1573008783608.gif" alt=""></figure>
-<p align="center">
-<video autoplay="autoplay" controls="" style="height: 40px; width: 66%;" src="http://63.223.91.200/08%20%E4%BA%8C%E5%8D%81%E5%88%86%E9%92%9F%E7%9A%84%E6%9C%8B%E5%8F%8B.mp3"></video>
-</p>]]></content>
+        <updated>2019-11-06T02:58:15.000Z</updated>
+        <content type="html"><![CDATA[<p>歌在西雅图的土豆机房。<br>
+网站托管在github。<br>
+访问网速可能受限，将就一下。</p>
+<figure data-type="image" tabindex="1"><img src="https://dashofwaves.github.io//post-images/1573009468763.gif" alt=""></figure>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[开张]]></title>
