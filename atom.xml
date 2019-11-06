@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dashofwaves.github.io/</id>
     <title>Dash of Waves 浪打浪</title>
-    <updated>2019-11-06T03:23:59.646Z</updated>
+    <updated>2019-11-06T03:48:51.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dashofwaves.github.io/"/>
     <link rel="self" href="https://dashofwaves.github.io//atom.xml"/>
@@ -17,7 +17,7 @@
         </link>
         <updated>2019-11-06T03:15:31.000Z</updated>
         <content type="html"><![CDATA[<p>同样人格担保描述属实</p>
-<figure data-type="image" tabindex="1"><img src="https://dashofwaves.github.io//post-images/1573010214571.gif" alt=""></figure>
+<figure data-type="image" tabindex="1"><img src="https://dashofwaves.github.io//post-images/1573011888035.jpg" alt=""></figure>
 <p align="center">
 <video autoplay="autoplay" controls="" style="height: 40px; width: 66%;" src="http://63.223.91.200/09 彪子再见.mp3"></video>
 </p>]]></content>
@@ -29,7 +29,7 @@
         </link>
         <updated>2019-11-06T03:10:03.000Z</updated>
         <content type="html"><![CDATA[<p>人格担保描述属实</p>
-<figure data-type="image" tabindex="1"><img src="https://dashofwaves.github.io//post-images/1573009865579.gif" alt=""></figure>
+<figure data-type="image" tabindex="1"><img src="https://dashofwaves.github.io//post-images/1573011874026.jpg" alt=""></figure>
 <p align="center">
 <video autoplay="autoplay" controls="" style="height: 40px; width: 66%;" src="http://63.223.91.200/08%20%E4%BA%8C%E5%8D%81%E5%88%86%E9%92%9F%E7%9A%84%E6%9C%8B%E5%8F%8B.mp3"></video>
 </p>]]></content>
@@ -43,7 +43,7 @@
         <content type="html"><![CDATA[<p>歌在西雅图的土豆机房。<br>
 网站托管在github。<br>
 访问网速可能受限，将就一下。</p>
-<figure data-type="image" tabindex="1"><img src="https://dashofwaves.github.io//post-images/1573009468763.gif" alt=""></figure>
+<figure data-type="image" tabindex="1"><img src="https://dashofwaves.github.io//post-images/1573012119563.gif" alt=""></figure>
 ]]></content>
     </entry>
     <entry>
@@ -52,8 +52,8 @@
         <link href="https://dashofwaves.github.io//post/kai-zhang">
         </link>
         <updated>2019-11-05T12:33:51.000Z</updated>
-        <content type="html"><![CDATA[<p>网易也有苦衷~<br>
-<img src="https://dashofwaves.github.io//post-images/1572957302302.gif" alt=""></p>
+        <content type="html"><![CDATA[<p>网易也有苦衷~</p>
+<figure data-type="image" tabindex="1"><img src="https://dashofwaves.github.io//post-images/1573012128141.gif" alt=""></figure>
 ]]></content>
     </entry>
 </feed>
